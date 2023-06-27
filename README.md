@@ -38,8 +38,7 @@
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/nimo_31_02/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		
-		<a style="margin-left: 5px;" target="_blank" href="https://nirmalraj3112.github.io/personla-land-page/">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
-      </div>
+		
+</div>
 
 </p>
